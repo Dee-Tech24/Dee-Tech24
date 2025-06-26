@@ -1,4 +1,10 @@
-## This is a beginning section with a dropdown menu with Html,css and a little of javascript
+## This is a beginning of success and change in my world, watch out,my building is massive.
+
+🔭 I’m currently working on fronted development projects 
+🌱 I’m currently learning backend languages
+👯 I’m looking to collaborate on fronted projectd
+🤔 I’m looking for help with anything frontend
+📫 How to reach me: creativedivine5@gmail.com
 
 <!--
 **Dee-Tech24/Dee-Tech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
